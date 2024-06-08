@@ -11,6 +11,13 @@ Created Full Stack web application using Django for listing the real estate prop
    4. Property Map: The application converts property addresses into latitude and longitude using TomTom geocoder and displays all properties on a map using TomTom map services.
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,github,vscode,git,bootstrap,js,html,css" />
+  </a>
+</p>
+
+
 ## Technology Stack
 
     Django: Web framework used to build the application.
