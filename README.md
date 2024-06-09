@@ -1,7 +1,7 @@
 # Real estate property listing web application using Django
 
 ## Overview
-Created Full Stack web application using Django for listing the real estate properties. On this web application allow users to sell, rent, or lease properties such as apartments, flats, and bungalows. The application includes user authentication and autherisation, CRUD operations for property listings, a contact form for inquiries, and an integrated map to display property locations using TomTom geocoder and map services.
+Created Full Stack web application using Django for listing the real estate properties. On this web application allow users to sell, rent, or lease properties such as apartments, flats, and bungalows. The application includes user authentication and authorization, CRUD operations for property listings, a contact form for inquiries, and an integrated map to display property locations using TomTom geocoder and map services.
 
 ## Features
 
